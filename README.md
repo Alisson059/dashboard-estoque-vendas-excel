@@ -1,58 +1,86 @@
-# 📊 Dashboard de Estoque e Vendas – Excel
+# Dashboard de Estoque e Vendas – Excel
 
-Este projeto representa o desenvolvimento do meu **primeiro dashboard em Excel**, com foco na **análise de estoque e desempenho de vendas**, utilizando uma **base de dados consolidada**.
+Este repositório contém um **dashboard desenvolvido em Excel** com foco na análise de dados de vendas e estoque, projetado para apoiar a tomada de decisão de negócio.
 
-O dashboard foi criado com o objetivo de organizar e visualizar informações de forma clara, facilitando o acompanhamento dos resultados e apoiando a tomada de decisão.
-
----
-
-## 🎯 Objetivo do Projeto
-Fornecer uma visão resumida e prática sobre:
-- Faturamento do período
-- Vendas do mês e da semana
-- Desempenho de vendas por departamento
-- Análise de vendas por segmento
-- Comparação de resultados entre períodos
-- Produtos com melhor desempenho
+O dashboard apresenta visualizações e indicadores que facilitam a compreensão de desempenho de vendas, eficiência do estoque e identificação de oportunidades.
 
 ---
 
-## 📊 Indicadores Analisados
-- Faturamento mensal
-- Vendas semanais
-- Valor total em estoque
-- Produto mais vendido por período
-- **Gráfico de vendas da semana**, com visualização por **departamento e segmento**
-- **Gráfico de vendas do mês**, com visualização por **departamento e segmento**
+## 📌 Versões do Projeto
 
-Essas visualizações permitem comparar o desempenho de vendas entre áreas e segmentos, bem como analisar a variação dos resultados entre diferentes períodos.
+### 🔹 **Versão 1**
+Dashboard inicial com as principais análises descritivas:
+- Faturamento mensal e semanal
+- Valor total do estoque (R$)
+- Segmentação por departamento e segmento
+- Identificação do produto campeão em quantidade de vendas
 
----
-
-## 🛠️ Ferramentas e Recursos Utilizados
-- Microsoft Excel
-- Tabelas estruturadas
-- Tabelas dinâmicas
-- Indicadores visuais (KPIs)
-- Organização de dados consolidados para análise
+### 🔹 **Versão 2**
+Melhoria com foco em análise estratégica:
+- Análise de **giro de estoque** (baixo, médio e alto)
+- Identificação de **capital parado em estoque (R$)**
+- Destaque do **segmento com maior risco financeiro**
+- Inclusão do **Top 10 Marcas por Faturamento no Mês**
+- Melhor organização visual e hierarquia de indicadores
 
 ---
 
-## 📈 Principais Aprendizados
-- Criação de dashboards a partir de dados consolidados
-- Importância da visualização de dados para análise de desempenho
-- Comparação de vendas entre períodos distintos
-- Análise de resultados por departamento e segmento
-- Estruturação de painéis focados em leitura rápida e clareza visual
----
+## 📊 Indicadores e Visualizações
 
-## 🚀 Próximos Passos
-- Criar uma base de dados transacional (com registro por data)
-- Evoluir o dashboard para uma versão executiva
-- Automatizar a atualização dos dados
-- Expandir a análise para outros períodos e categorias
+O dashboard apresenta:
+- **Faturamento detalhado** por período
+- **Estoque valorizado** em R$
+- **Giro de estoque** por categoria
+- **Ranking de marcas** por faturamento
+- **Produtos mais vendidos no mês**
 
 ---
 
-📌 Projeto desenvolvido para fins de aprendizado e portfólio, com foco na evolução contínua em análise de dados e no uso do Excel como ferramenta analítica.
+## 🛠️ Ferramentas Utilizadas
+
+  - **Microsoft Excel**
+  - Tabelas Dinâmicas
+  - Segmentadores
+  - Fórmulas para cálculo de KPIs
+
+---
+
+## 🎯 Objetivo
+
+O principal objetivo deste projeto é demonstrar habilidades em:
+- Construção de dashboards dinâmicos
+- Análise de dados com foco em negócios
+- Comunicação visual de insights relevantes
+
+---
+
+## 📁 Estrutura do Repositório
+
+```text
+📦 dashboard-estoque-vendas-excel
+├── Dashboard_Estoque_e_Vendas_v1.xlsx
+├── Dashboard_Estoque_e_Vendas_v2.xlsm
+└── README.md
+```
+
+---
+
+## 🔗 Link para Download
+
+- 📥 [Dashboard Versão 1](Dashboard_Estoque_e_Vendas_v1.xlsx)
+- 📥 [Dashboard Versão 2](Dashboard_Estoque_e_Vendas_v2.xlsm)
+
+---
+
+## 🚀 Contribuições
+
+Contribuições são bem-vindas!  
+Se você tiver sugestões de melhorias ou visualizações adicionais, abra uma *issue* ou um *pull request*.
+
+---
+
+## 📌 Licença
+
+Este projeto está sob a licença **MIT** — consulte o arquivo LICENSE para mais detalhes.
+
 
